@@ -12,4 +12,7 @@ working on git conflict
 
 hi iam vinod
 i have edited this date file
-Pusing my changes
+Pushing my changes
+
+This is a text file.
+
